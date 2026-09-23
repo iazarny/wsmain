@@ -1,0 +1,9 @@
+[submodule "ws0"]
+	path = ws0
+	url = git@github.com:iazarny/ws0.git
+[submodule "ws1"]
+	path = ws1
+	url = git@github.com:iazarny/ws1.git
+[submodule "ws2"]
+	path = ws2
+	url = git@github.com:iazarny/ws2.git
